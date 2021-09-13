@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+#title{
+  text-align: center;
+}
+
+body{
+  background-color: steelblue;
+}
+.app{
+  background-color: lightskyblue;
+  height : 630px;
+  width: 500px;
+  margin: 50px auto;
+  border-style: solid;
+  border-radius: 1rem;
+  border-color: crimson;
+}
+#to-do input{
+  background-color: aliceblue;
+  border: 0px;
+  width: 15rem;
+  height: 2rem;
+  margin: 3rem;
+  padding: 0 20px;
+  border-radius: 10px;
+}
+#to-do input::placeholder{
+  color: black;
+}
+
+#to-do button{
+  width: 3.5rem;
+  height: 2rem;
+  border-radius: 3px;
+  border: 0;
+  padding: 0 10px;
+  background-color: cornflowerblue;
+  color: aliceblue;
+  margin: 2px;
+}
+
