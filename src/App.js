@@ -80,7 +80,7 @@ reset(){
     return (
       <div className="app">
         <header> 
-        <h1 id="title">To-do-App by Syed</h1>
+        <h1 id="title">To-do-List-App by Syed</h1>
         <form id="to-do" onSubmit={this.addItem}>
         <input type="text" placeholder="Enter the text" value={this.state.currentTodo.text} onChange={this.handleChange}/>
         <button type="submit" > Add</button>
