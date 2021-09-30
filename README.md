@@ -1,3 +1,6 @@
+Visit https://syed-react-to-do-list.netlify.app/ to view the APP.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
