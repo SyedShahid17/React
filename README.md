@@ -1,4 +1,4 @@
-<h2>Visit <h1 style="text-decoration:none;"> https://syed-react-to-do-list.netlify.app/ </h1> to view the APP.</h2>
+<h2>Visit <h1 style="text-decoration:none;"> <a href="https://syed-react-to-do-list.netlify.app/">https://syed-react-to-do-list.netlify.app/</a> </h1> to view the APP.</h2>
 
 
 # Getting Started with Create React App
